@@ -1,0 +1,47 @@
+# Environ
+django-environ==0.9.0
+
+# Django base stuff
+Django==4.1.6
+django-admin-env-notice==0.4
+
+# DRF
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.2.2
+django-cors-headers==3.13.0
+django-coreapi==2.3.0
+
+# Django tools
+django-filter==22.1
+django-extensions==3.2.1
+django-storages==1.13.2
+
+#Format
+brunette>=0.2.7
+
+# Testing
+factory-boy==3.2.1
+schema==0.7.5
+mixer==7.2.2
+
+# Sentry
+sentry-sdk==1.7.2
+
+# DB
+psycopg2==2.9.5
+
+# AWS
+boto3==1.26.69
+
+# Utils
+weasyprint==57.2
+pandas==1.5.0
+qrcode==7.4.2
+quickchart-io==2.0.0
+requests==2.28.2
+
+# Google Firebase
+google-auth==2.16.0
+
+# Production
+uwsgi==2.0.21
